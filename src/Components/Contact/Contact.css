@@ -1,0 +1,114 @@
+.Contact{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding-left: 280px;
+    margin-top: 5%;
+    width: 40%;
+}
+.Contact h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding-left: 350px;
+    margin-top: 5%;
+    width: 40%;
+}
+.Contact1{
+    background-color: rgb(231, 235, 213);
+    border-radius: 20px 30px 20px 30px;
+    align-items: center;
+    width:600px;
+    height: 500px;
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.Contact1 h2{
+ font-size: 25px;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bolder;
+ color: #102a4d;
+ padding-top: 10px;
+}
+.Contact1 h4{
+ font-size: 18px;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bolder;
+ color: #5a0b49;
+}
+label{
+ 
+ font-size: large;
+ margin-bottom: 10px;
+}
+.name{
+    color: black;
+    font-size: 15px;
+    width: 350px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+.email{
+    color: black;
+    font-size: 15px;
+    width: 350px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+
+.msg{
+    color: black;
+    font-size: 15px;
+    width: 350px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+.submit{
+ 
+        color:white;
+        background-color: green;
+        font-size: larger;
+        font-weight: 300;
+        font-style: italic;
+        margin-top: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 5px;
+    }
+    .name:focus{
+        color: rgb(177, 10, 10);
+        font-size: 15px;
+        width: 350px;
+        height: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 10px;
+        background-color: #caf5f5;
+        margin-top: 20px;
+    }
+    .email:focus{
+        color: rgb(177, 10, 10);
+        font-size: 15px;
+        width: 350px;
+        height: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 10px;
+        background-color: #caf5f5;
+        margin-top: 20px;
+    }
+    .submit:hover{
+        background-color: rgb(223, 32, 18);
+        color: black;
+    }
